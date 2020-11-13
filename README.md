@@ -23,6 +23,11 @@ npm start
 
 Profit 😃
 
+### Dependencias usadas
+```bash
+npm @react-navigation/native @react-navigation/drawer
+```
+
 ### Documentación
 
 [Guía React-Navigation Drawer](https://reactnavigation.org/docs/drawer-based-navigation)
