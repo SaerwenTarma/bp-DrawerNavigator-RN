@@ -25,7 +25,7 @@ Profit 😃
 
 ### Dependencias usadas
 ```bash
-npm @react-navigation/native @react-navigation/drawer
+npm install @react-navigation/native @react-navigation/drawer
 ```
 
 ### Documentación
